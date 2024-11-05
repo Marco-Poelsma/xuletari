@@ -13,7 +13,6 @@ public class Main {
             }
         }
         System.out.println(matriu.length);
-        System.out.println("paspfoijsaf");
         for (int i = 0; i < posicionsArray; i++) {{
                 System.out.println(Arrays.toString(matriu[i]));
             }
